@@ -1,3 +1,14 @@
-# conexus #
+# sails creations #
 
-what's up github?
+Angular
+Auth
+Websockets
+
+
+Front-End : Back-End
+
+
+Front-End
+	/assets/src/app/
+Api
+	/api/
